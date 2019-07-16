@@ -1,2 +1,4 @@
-# react-boilerplate
- A react boilerplate using webpack
+# React boiler plate
+ A react boiler plate using webpack
+
+# TODO: Chunking, code splitting
